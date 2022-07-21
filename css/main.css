@@ -1,4 +1,73 @@
 .block {
+    width: 1100;
+    height: 800;
     background: #ccc;
-    overflow: hidden;
+    overflow: hidden; 
 }
+.first {
+    width: 1000px;
+    height: 200px;
+    margin: 20px 20px;
+    background-color: antiquewhite;
+}
+.box1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: aquamarine;
+}
+.box2 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background: aquamarine; 
+}
+.second {
+    width: 1000px;
+    height: 200px;
+    margin: 20px 20px;
+    background-color: antiquewhite;
+}
+.box3 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: aquamarine;
+}
+.box4 {
+    float: right;
+}
+.box4 div {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: aquamarine;
+    margin-left: 20px;
+}
+.third {
+    width: 1000px;
+    height: 200px;
+    margin: 20px 20px;
+    background-color: antiquewhite;
+}
+.box5 {
+    float: left;
+}
+.box5 div {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: aquamarine;
+    margin-right: 20px;
+}
+.box6 {
+    float: right;
+}
+.box6 div {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background: aquamarine;
+    margin-left: 20px;
+}
+
